@@ -1,0 +1,22 @@
+body{
+    background-color: #3F72AE !important;
+}
+.cont{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+}
+.color{
+    background-color: #3F72AE;
+}
+.outlinebtn{
+    border: 2px solid #3F72AE ;
+}
+
+input{
+    background-color: #DCE2EF;
+    border: 0;
+    outline: 2px solid #DCE2EF;
+}

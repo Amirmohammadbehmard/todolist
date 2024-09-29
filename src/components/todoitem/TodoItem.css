@@ -1,0 +1,25 @@
+.parent-item {
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #dce2ef;
+  width: 90%;
+  height: 50px;
+  margin: 20px 25px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.li {
+  overflow: hidden;
+}
+.buttondelete {
+  border: none;
+  background-color: #dce2ef;
+}
